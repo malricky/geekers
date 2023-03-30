@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agrimarket-bcd77",
+  "private_key_id": "b1d6a9ac79df6590bc9e5236bf04f57adc38adf7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDLCLnPaY+WpguE\nXBgpOQwhHo6tg7ZuhXJAOkhqn6WuMs5x2MF45fw8u/WgI54HHKox1bjrJxuSskHW\nAZ3whw4YI7otqSzv+aOhIWBiiy6kgEYoTUsx8zOGWV8iBhkN89nf15e1jWLybzb3\nsPOSeZha8Ol6UC6L9TvTaWZq4n/vWGvqXNoW9U+dSzLj5EsZXZra8rWMewvJG0h6\nlSDlBol/zHIFmRbEc7A3oBQMFgOub0kqQJI5+PocZO0JHY/CwT5vCO01tRnY/Di1\naRMqJi4NC4mh2gM8hMRTot8r9q9211JlrBOVz9qD0oy9lu3aCdEvwl58h0BFEhWS\nHaQCunevAgMBAAECgf9sY5F5KOF+4HtFgzoNcmcHR0jkA2y2PodqbQg746k6AJA1\njCxns7T0t2MUGppChwr/j8PTGw2dQuHisvpIwyYYZ6T8u1PsyK3nVz9ysYWKTEXS\nk3Dmju7yyhiqEUH5hjTJ9aOyncg0+dUJEMOiGUfnRLVf7BjtSVNRiZ3OHHIv/g9H\nBGVhlJJweA+dHDyRlbZPnycnPB1zLNmgAEbIWgohGuUtV/dDbv3pMOQuGe8axR9+\nbtDr5bCKsAja3XVsopa10zzktHLgytBmVYlDO3g6m1qqPpZ4c/FslmGigI/hbTv4\nhx8VPMhlfqX/pb5mlLRtVUhXOOyOGyefr5kzyjECgYEA/4z4slutbm8Y+tabE00Q\nQNlp2Z0W6R02AtVIwXYP3i/tzrgJGYXyNN3g7uvGYw2ggwAg6DIrhPHW2ZpCY5nN\n4igE7Wi9Ih1sX9S/DpTIUOG5HWuOaFNAu5pRKHKEFUccHEmS7WXRnEl0avcPIgR2\nlxFsTTW8GZIDQt8Ej0VVfdUCgYEAy2QdliB56yJBhBKVrIkz2ZOkFmzKqEHUedgn\nGAiitaZjlkleZQExFO4CU0KqkyFctW+jdEsmOaa589JSd8sdy2V1vET1dCSh6CCy\n4R/KYoyVY5X0V2LyFrDVMy+s7SNDvNubeVYIfBqg24tIl0uZ5c+XjESZVBKIf4mP\n7F0irXMCgYB7cfOo5NRQZmZgtU5P8ogJa3zQXCv3C99NWw48NfXQVMLBevEaXTP1\nCcFgaJB6xNhmr6c1wxZ2sAQjNXsgdemYd9B5hoDme+QgHrr0Jjblq0QqzAwMpTq9\n5PuTWE4poSIZIAlTmD27C1irWxD6U8GdlBMG8RAeIgRlRyoCs3FqyQKBgQCjOE+p\n95v/fzkWdReaI2zxsVLgECQ+DL4nnbgZyGxS3BlVNMHEysUJp8tD598dPYu5qsKA\nhAJEB7F4opM9wUnCvURTdv+HWhJ4Ry1mDm4K0gjcpy0zp5rhbL1bW2opz7//YjkN\nkWYzuebW6Jqzl58EVqimjzKAznKt7sYKB9/ZUwKBgQDCelwSy+OzUh5l6he4DcJD\nt96/ugmfpQYzgWgikGXt335R2Z1I5BRf6o6Mo5K+pzhmJJ5OG1xZO7Yzk0KPtY+k\nmEBPSWOJkyIlvn91pq9GGqEszGf/4B16DuvTsSPYtWJ7n6URgBSW5e32qVr02c8o\nYsT/tu3BSyDNxvVP836GRg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-njncp@agrimarket-bcd77.iam.gserviceaccount.com",
+  "client_id": "105273598754096110916",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-njncp%40agrimarket-bcd77.iam.gserviceaccount.com"
+}
